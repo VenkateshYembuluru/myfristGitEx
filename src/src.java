@@ -4,3 +4,4 @@ from clone
 clone HI
 from source
 1 added form source
+2 is added from clone
